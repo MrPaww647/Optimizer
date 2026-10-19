@@ -1,4 +1,4 @@
-#Optimizer
+Optimizer
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-v0.1.12.5-blue?style=for-the-badge" alt="Version">
@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/license-Custom-green?style=for-the-badge" alt="License">
 </p>
 
-> **Craft Optimizer** — это современное десктопное приложение, созданное для глубокого анализа, управления и автоматической оптимизации пользовательских сборок Minecraft под индивидуальные аппаратные характеристики вашего ПК.
+> **Optimizer** — это современное десктопное приложение, созданное для глубокого анализа, управления и автоматической оптимизации пользовательских сборок Minecraft под индивидуальные аппаратные характеристики вашего ПК.
 
 ---
 
